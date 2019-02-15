@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45702126097",
+    "firebase_url": "https://laznas-app.firebaseio.com",
+    "project_id": "laznas-app",
+    "storage_bucket": "laznas-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45702126097:android:72e6f7b25567e197",
+        "android_client_info": {
+          "package_name": "com.zidan.laznasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45702126097-ar7iao8p965oi378nt4224brn0b3n781.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zidan.laznasapp",
+            "certificate_hash": "2806bb4945bcc20e40662d161af27ebfa43984d8"
+          }
+        },
+        {
+          "client_id": "45702126097-238het4b741fa50c3ab9off1ophg23b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPUt3XYKzUfKa5CSCkytGOAKtqPUzi5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45702126097-238het4b741fa50c3ab9off1ophg23b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
